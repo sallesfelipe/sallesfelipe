@@ -1,8 +1,7 @@
-## Olá 👋
-## Prazer, Felipe Nogueira =)
+## Olá, Sou o Felipe Nogueira 👋
 
--- Migrando de Suporte/Infra para Desenvolvimento
--- Estudando JS e Java
+- 🔭Migrando de Suporte/Infra para Desenvolvimento
+- 🌱 Estudando JavaScript e Java
 
 <div>  
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lipenogueira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -21,10 +20,11 @@
 ##
   
 <div> 
-  <a href="https://instagram.com/_sallesfelipe" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/lipenogueira_" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/lfsalles" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://instagram.com/_sallesfelipe" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href = "mailto:lipenogueiradev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/lfsalles" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+  	<a href="https://www.twitch.tv/lipenogueira_" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a> 
+    
 </div>
 
 
