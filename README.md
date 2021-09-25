@@ -1,4 +1,4 @@
-## Olá, Sou o Felipe Nogueira! 👋
+## Olá, Sou o Felipe Salles! 👋
 
 - 🔭 Profissional de Infraestrutura, Suporte e Redes há 10 anos. Também nesse tempo trabalhando com processos ITIL e abordagem ágil. Sou graduado em Gestão de T.I e atualmente cursando Sistemas de Informação.
 
