@@ -1,6 +1,6 @@
 ## Olá, Sou o Felipe Salles! 👋
 
-- 🔭 Vim do mundo Microsoft, trabalho com infraestrutura, redes e suporte há 10 anos. Também nesse tempo trabalhando com processos ITIL como Supervisor de Service Desk. Sou graduado em Gestão de T.I e atualmente cursando Sistemas de Informação.
+- 🔭 Vim do mundo Microsoft, trabalho com infraestrutura, redes e suporte há 10 anos. Também nesse tempo trabalhando com processos ITIL, como Supervisor de Service Desk. Sou graduado em Gestão de T.I e atualmente cursando Sistemas de Informação.
 
 - 🌱 Estudando Linux, Containers e Infra as a Code. Em transisão de carreira para DevOps/SRE.
 
