@@ -2,7 +2,7 @@
 
 - 🔭 Vim do mundo Microsoft, trabalho com infraestrutura, redes e suporte há 10 anos.
 
-- 🌱 Estudando Desenvolvimento WEB com a base (HTML, CSS e JS) mas em busca de me tornar um Backend Developer com Java.
+- 🌱 Estudando Desenvolvimento WEB 
 
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
