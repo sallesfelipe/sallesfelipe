@@ -17,5 +17,5 @@
 ### 📫 Contato:
   
 - Linkedin: [Felipe Salles](https://www.linkedin.com/in/fnsalles/)
-- Twitter: [Lipe Nogueira](https://twitter.com/sallesfelipe__)
+- Twitter: [Felipe Salles](https://twitter.com/sallesfelipe_)
 - E-mail: felipe.salles@outlook.com
