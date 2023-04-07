@@ -1,8 +1,8 @@
-## Olá, Sou o Felipe Salles! 👋
+## Olá, Sou o Felipe! 👋
 
-- 🔭 Vim do mundo Microsoft. Trabalho com infraestrutura, redes e suporte há 10 anos.
+- 🔭 Sou Gestor de TI em transição de área.
 
-- 🌱 Estudando Desenvolvimento WEB 
+- 🌱 Estudando Desenvolvimento WEB. 
 
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -13,9 +13,10 @@
 ![azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![aws](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sallesfelipe&show_icons=true&locale=en&layout=compact" alt="sallesfelipe" /></p>
 
-### 📫 Contato:
+
+### <p style="text-align: right;">📫 Contato: </p>
   
-- Linkedin: [Felipe Salles](https://www.linkedin.com/in/fnsalles/)
-- Twitter: [Felipe Salles](https://twitter.com/sallesfelipe_)
-- E-mail: felipe.salles@outlook.com
+<p style="text-align: right;">Linkedin: https://www.linkedin.com/in/fnsalles</p>
+<p style="text-align: right;">Twitter: https://twitter.com/sallesfelipe_</p>
