@@ -19,4 +19,3 @@
 ### <p style="text-align: right;">📫 Contato: </p>
   
 <p style="text-align: right;">Linkedin: https://www.linkedin.com/in/fnsalles</p>
-<p style="text-align: right;">Twitter: https://twitter.com/sallesfelipe_</p>
