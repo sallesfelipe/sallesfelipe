@@ -1,6 +1,6 @@
 ## Olá, Sou o Felipe! 👋
 
-- 🔭 Sou formado em Gestão de TI e trabalho dando suporte a um grande ERP da área de saúde;
+- 🔭 Sou formado em Gestão de TI e trabalho dando suporte a um grande ERP da área da saúde;
 
 - 🌱 Em transição de área para Desenvolvimento WEB (Backend).
 
