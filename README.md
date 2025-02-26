@@ -12,9 +12,6 @@
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sallesfelipe&show_icons=true&locale=en&layout=compact" alt="sallesfelipe" /></p>
-
-
 ### <p style="text-align: right;">📫 Contato: </p>
   
 <p style="text-align: right;">Linkedin: https://www.linkedin.com/in/fnsalles</p>
